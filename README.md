@@ -417,4 +417,4 @@ The SDK comes with several examples and a demo project that show how to leverage
 
 ### License ###
 
-Aptos-Unity-SDK is released under the Apache 2.0 license. [See LICENSE](https://github.com/aptos-labs/Aptos-Unity-SDK/blob/main/LICENSE) for details.
+Aptos-Unity-SDK is released under the Apache 2.0 license. [See LICENSE](https://github.com/aptos-labs/Aptos-Unity-SDK/blob/main/LICENSE) for details..
